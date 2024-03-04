@@ -1,9 +1,5 @@
 <h1 align="center">Tic Tac Toe: HTML Edition</h1>
 
-<p align="center">
-  <img src="tic-tac-toe.png" alt="Tic Tac Toe" width="400">
-</p>
-
 <p align="center">Welcome to the Tic Tac Toe HTML Edition repository! This project brings the classic game of Tic Tac Toe to life in your web browser. Built using HTML, CSS, and JavaScript, this interactive game provides a fun and engaging experience for players of all ages.</p>
 
 ## 🚀 Features
