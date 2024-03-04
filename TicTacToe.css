@@ -1,0 +1,138 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+body{
+    background-color: #003566;
+}
+
+.heading{
+    font-size: 2.5rem;
+    height: 5rem;
+    /* background-color: #d9dbf1; */
+    background-color: #ffc300;
+    color: black;
+    line-height: 5rem;
+    text-align: center;
+}
+
+.container{
+    margin-top: 2rem;
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game{
+    height: 30rem;
+    width: 30rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.box{
+    height: 9rem;
+    width: 9rem;
+    font-size: 4.5rem;
+    background-color: #023047;
+    color: #ffb703;
+    border-radius: 1rem;
+    border: 2px solid #ffb703
+}
+.reset-game{
+    /* position: absolute;
+    top: 50%;
+    right: 10%; */
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #ffc300;
+    color: black;
+    font-size: 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+.reset-game:hover{
+    scale: 1.1;
+}
+
+.msg-container{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+
+
+.new-game{
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #ffc300;
+    color: black;
+    font-size: 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+.msg{
+    margin-top: 3.5rem;
+    font-size: 6vmin;
+    color: #ffb703;
+    background-color: #023047;
+    width: 100vmin;
+    height: 9vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 30px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.new-game:hover{
+    scale: 1.1;
+}
+
+.hidden{
+    display: none;
+}
+
+
+
+.reset-extra-details{
+    position: absolute;
+    top: 50%;
+    right: 10%;
+}
+
+.Player-X{
+    position: absolute;
+    top: 45%;
+    right: 5%;
+    font-size: 6vmin;
+    color: #ffb703;
+    background-color: #023047;
+    width: 50vmin;
+    border-radius: 10px ;
+}
+
+.Player-O{
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    font-size: 6vmin;
+    color: #ffb703;
+    background-color: #023047;
+    width: 50vmin;
+    border-radius: 10px ;
+}
+
