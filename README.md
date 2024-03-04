@@ -1,6 +1,6 @@
-<h1 align="center">Tic Tac Toe: HTML Edition</h1>
+<h1 align="center">Tic Tac Toe: WEB Edition</h1>
 
-<p align="center">Welcome to the Tic Tac Toe HTML Edition repository! This project brings the classic game of Tic Tac Toe to life in your web browser. Built using HTML, CSS, and JavaScript, this interactive game provides a fun and engaging experience for players of all ages.</p>
+<p align="center">Welcome to the Tic Tac Toe WEB Edition repository! This project brings the classic game of Tic Tac Toe to life in your web browser. Built using HTML, CSS, and JavaScript, this interactive game provides a fun and engaging experience for players of all ages.</p>
 
 ## 🚀 Features
 
